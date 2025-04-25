@@ -1,8 +1,7 @@
 {
   "base_url": "https://privatereporz.pages.dev",
   "header": {
-  "cf-access-client-id": "833049b087acf6e787cedfd85d1ccdb8.access",
-  "cf-access-client-secret":
-    "02db296a961d7513c3102d7785df4113eff036b2d57d060ffcc2ba3ba820c6aa",
+    "cf-access-client-id": "833049b087acf6e787cedfd85d1ccdb8.access",
+    "cf-access-client-secret": "02db296a961d7513c3102d7785df4113eff036b2d57d060ffcc2ba3ba820c6aa"
   }
 }
